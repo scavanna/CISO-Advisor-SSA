@@ -1,1 +1,1 @@
-ver sumary
+ver SUMMARY
