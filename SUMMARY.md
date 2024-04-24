@@ -5,3 +5,4 @@
   * [Microsoft Copilot](ciberseguridad-e-inteligencia-artificial/microsoft-copilot.md)
   * [GPT-RAG Arquitectura de Referencia](ciberseguridad-e-inteligencia-artificial/gpt-rag-arquitectura-de-referencia.md)
 * [Microsoft Security](microsoft-security.md)
+* [Azure Security](azure-security.md)
