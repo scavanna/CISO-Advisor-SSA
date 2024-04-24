@@ -1,10 +1,132 @@
+---
+description: Actualizado 2024-04-24
+---
+
 # Ciberseguridad e Inteligencia Artificial
 
-Responsabilidad compartida&#x20;
+## Inteligencia artificial Etica y Reponsable.
 
-<figure><img src=".gitbook/assets/Captura de pantalla 2024-04-23 175237.png" alt=""><figcaption></figcaption></figure>
 
-Seguimos escribiendo aca
 
-Buscar pdf con impacto decreciente >> estudio de empresas publicas Lo encontre !! ( lo volvi a descargar, Ahora esta en WA.
+
+
+
+
+## Modelo de responsabilidad compartida&#x20;
+
+
+
+
+
+## Servicios cognitivos disponibles en Microsoft Azure.
+
+
+
+
+
+
+
+
+
+### Azure OpenAI
+
+
+
+
+
+
+
+#### GPT-RAG
+
+
+
+
+
+Preguntas?
+
+Arquitectura Zero Trust.&#x20;
+
+
+
+
+
+
+
+
+
+## Microsoft Copilot
+
+
+
+<figure><img src=".gitbook/assets/Scavanna-test2.png" alt=""><figcaption></figcaption></figure>
+
+### Copilot M365
+
+
+
+
+
+Preguntas??
+
+#### Consideraciones de seguridad relacionadas a la adopcion de Copilot M365
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Utilizacion de Inteligencia Artificial en ambitos de Ciberseguridad
+
+
+
+### Mitre Atlas
+
+
+
+
+
+
+
+
+
+### Inteligencia Artificial embebidas en las soluciones de seguridad de Microsoft.
+
+
+
+
+
+Extender las capacidades de las herramientas de seguirdad de Microsoft utilizando Inteligencia Artificial y servicios de terceros.
+
+
+
+Sentinel y GPT
+
+
+
+
+
+### Copilot for Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
