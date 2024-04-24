@@ -1,2 +1,0 @@
-# Privacidad de Microsoft
-
