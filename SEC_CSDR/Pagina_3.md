@@ -1,2 +1,0 @@
-# CISO-Advisor-SSA
-
