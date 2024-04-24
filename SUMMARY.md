@@ -9,3 +9,6 @@
 * [Azure Security](azure-security.md)
 * [Linkedin-X-Youtube](linkedin-x-youtube.md)
 * [Microsoft Research](microsoft-research.md)
+* [Post-Quantum Security](post-quantum-security/README.md)
+  * [Post-Quantum TLS](post-quantum-security/post-quantum-tls.md)
+  * [Post-quantum Cryptography VPN](post-quantum-security/post-quantum-cryptography-vpn.md)
