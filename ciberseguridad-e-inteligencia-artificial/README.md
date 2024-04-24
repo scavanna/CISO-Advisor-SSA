@@ -58,7 +58,7 @@ Arquitectura Zero Trust.&#x20;
 
 
 
-<figure><img src=".gitbook/assets/Scavanna-test2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scavanna-test2.png" alt=""><figcaption></figcaption></figure>
 
 ### Copilot M365
 
