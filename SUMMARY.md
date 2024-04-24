@@ -18,3 +18,5 @@
 * [Estándares y Regulaciones](estandares-y-regulaciones.md)
 * [Linkedin-X-Youtube](linkedin-x-youtube.md)
 * [Microsoft Research](microsoft-research.md)
+* [Privacidad de Microsoft](privacidad-de-microsoft.md)
+* [GitHub Security](github-security.md)
