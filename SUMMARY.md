@@ -6,3 +6,4 @@
   * [GPT-RAG Arquitectura de Referencia](ciberseguridad-e-inteligencia-artificial/gpt-rag-arquitectura-de-referencia.md)
 * [Microsoft Security](microsoft-security.md)
 * [Azure Security](azure-security.md)
+* [Linkedin-X-Youtube](linkedin-x-youtube.md)
