@@ -13,3 +13,6 @@
   * [Post-Quantum TLS](post-quantum-security/post-quantum-tls.md)
   * [Post-quantum Cryptography VPN](post-quantum-security/post-quantum-cryptography-vpn.md)
 * [Security Adoption Framework (SAF)](security-adoption-framework-saf.md)
+* [Zero Trust](zero-trust.md)
+* [Ransomware](ransomware.md)
+* [Ciber Resiliencia](ciber-resiliencia.md)
