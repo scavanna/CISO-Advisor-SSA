@@ -16,3 +16,5 @@
 * [Ransomware](ransomware.md)
 * [Ciber Resiliencia](ciber-resiliencia.md)
 * [Security Adoption Framework (SAF)](security-adoption-framework-saf.md)
+* [Reportes de Inteligencia](reportes-de-inteligencia.md)
+* [Estándares y Regulaciones](estandares-y-regulaciones.md)
