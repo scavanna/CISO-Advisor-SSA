@@ -14,9 +14,7 @@
 
 <figure><img src="../.gitbook/assets/GPT-RAG-SCALE-MultiProject.jpeg" alt=""><figcaption></figcaption></figure>
 
-
-
-{% embed url="https://github.com/Azure/GPT-RAG" %}
+## [https://github.com/Azure/GPT-RAG](https://github.com/Azure/GPT-RAG)
 
 
 
