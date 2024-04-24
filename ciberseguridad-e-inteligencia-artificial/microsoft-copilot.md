@@ -2,7 +2,5 @@
 
 <figure><img src="../.gitbook/assets/Microsoft_Copilot_20240424.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://learn.microsoft.com/es-mx/copilot/" %}
-
 [https://learn.microsoft.com/es-mx/copilot/](https://learn.microsoft.com/es-mx/copilot/)
 
