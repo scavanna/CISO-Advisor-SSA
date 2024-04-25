@@ -6,21 +6,9 @@ description: Actualizado 2024-04-24
 
 ## [Inteligencia artificial Ética y Responsable.](inteligencia-artificial-etica-y-responsable.md)
 
+## [Modelo de responsabilidad compartida](modelo-de-responsabilidad-compartida-de-la-inteligencia-artificial-ia.md)&#x20;
 
-
-
-
-## Modelo de responsabilidad compartida&#x20;
-
-
-
-
-
-
-
-
-
-
+<figure><img src="../.gitbook/assets/AI-Shared-Responsibility_20240425.png" alt=""><figcaption></figcaption></figure>
 
 ## Servicios cognitivos disponibles en Microsoft Azure.
 
