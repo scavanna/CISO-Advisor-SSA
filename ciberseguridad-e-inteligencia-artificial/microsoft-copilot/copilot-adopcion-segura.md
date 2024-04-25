@@ -1,0 +1,2 @@
+# Copilot: Adopción Segura
+
