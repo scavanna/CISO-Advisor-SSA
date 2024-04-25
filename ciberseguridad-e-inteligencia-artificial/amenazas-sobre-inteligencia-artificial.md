@@ -1,8 +1,8 @@
-# Inteligencia Artificial como Amenaza
+# Amenazas sobre Inteligencia Artificial
 
 
 
-## MITRE ATLAS
+## MITRE (
 
 ### ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)
 

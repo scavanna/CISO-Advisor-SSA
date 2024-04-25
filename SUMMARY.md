@@ -30,6 +30,7 @@
 * [Ciber Resiliencia](ciber-resiliencia/README.md)
   * [Ransomware](ciber-resiliencia/ransomware.md)
   * [Ciber Higiene](ciber-resiliencia/ciber-higiene.md)
+  * [Threat Modeling](ciber-resiliencia/threat-modeling.md)
 * [Microsoft Research](microsoft-research/README.md)
   * [Post-quantum Cryptography](microsoft-research/post-quantum-cryptography/README.md)
     * [Post-Quantum TLS](microsoft-research/post-quantum-cryptography/post-quantum-tls.md)
