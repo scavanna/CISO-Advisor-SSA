@@ -14,7 +14,13 @@
 
 [https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023](https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023)
 
-<figure><img src="../.gitbook/assets/MDDR-2023-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MDDR-2023-1.png" alt=""><figcaption></figcaption></figure>
+
+| The state of cybercrime              | Innovation for security and Resilience |
+| ------------------------------------ | -------------------------------------- |
+| ![](.gitbook/assets/MDDR-2023-2.png) | ![](.gitbook/assets/MDDR-2023-3.png)   |
+
+
 
 Reporte completo
 
@@ -26,7 +32,7 @@ Reporte completo
 
 ### Cyber Signals 6: Navigating cyberthreats and strengthening defenses in the era of AI >> Febrero 2024
 
-<figure><img src="../.gitbook/assets/Cyber Signals 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Cyber Signals 6.png" alt=""><figcaption></figcaption></figure>
 
 [https://www.microsoft.com/en-us/security/blog/2024/02/14/cyber-signals-navigating-cyberthreats-and-strengthening-defenses-in-the-era-of-ai/](https://www.microsoft.com/en-us/security/blog/2024/02/14/cyber-signals-navigating-cyberthreats-and-strengthening-defenses-in-the-era-of-ai/)
 

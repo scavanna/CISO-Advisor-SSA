@@ -21,7 +21,7 @@
   * [Data Protection - Purview](microsoft-security/data-protection-purview.md)
   * [Copilot Security](microsoft-security/copilot-security.md)
 * [Reportes de Inteligencia](reportes-de-inteligencia/README.md)
-  * [Reportes de Inteligencia Microsoft](reportes-de-inteligencia/reportes-de-inteligencia-microsoft.md)
+  * [Reportes de Inteligencia Microsoft](reportes-de-inteligencia.md)
   * [Microsoft Security Blog](reportes-de-inteligencia/microsoft-security-blog.md)
 * [Security Adoption Framework (SAF)](security-adoption-framework-saf/README.md)
   * [Zero Trust](security-adoption-framework-saf/zero-trust.md)
