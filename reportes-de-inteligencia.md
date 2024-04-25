@@ -20,8 +20,6 @@
 | ------------------------------------ | -------------------------------------- |
 | ![](.gitbook/assets/MDDR-2023-2.png) | ![](.gitbook/assets/MDDR-2023-3.png)   |
 
-
-
 Reporte completo
 
 [https://go.microsoft.com/fwlink/?linkid=2249025\&clcid](https://go.microsoft.com/fwlink/?linkid=2249025\&clcid=0x409\&culture=en-us\&country=us)
@@ -32,9 +30,9 @@ Reporte completo
 
 ### Cyber Signals 6: Navigating cyberthreats and strengthening defenses in the era of AI >> Febrero 2024
 
-<figure><img src=".gitbook/assets/Cyber Signals 6.png" alt=""><figcaption></figcaption></figure>
-
 [https://www.microsoft.com/en-us/security/blog/2024/02/14/cyber-signals-navigating-cyberthreats-and-strengthening-defenses-in-the-era-of-ai/](https://www.microsoft.com/en-us/security/blog/2024/02/14/cyber-signals-navigating-cyberthreats-and-strengthening-defenses-in-the-era-of-ai/)
+
+<figure><img src=".gitbook/assets/Cyber Signals 6.png" alt=""><figcaption></figcaption></figure>
 
 Reporte completo:
 
