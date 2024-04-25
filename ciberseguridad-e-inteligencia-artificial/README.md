@@ -10,75 +10,15 @@ description: Actualizado 2024-04-24
 
 <figure><img src="../.gitbook/assets/AI-Shared-Responsibility_20240425.png" alt=""><figcaption></figcaption></figure>
 
-## Servicios cognitivos disponibles en Microsoft Azure.
+## [Servicios cognitivos disponibles en Microsoft Azure.](servicios-cognitivos-disponibles-en-microsoft-azure.md)
+
+## [GPT-RAG Arquitectura de Referencia](gpt-rag-arquitectura-de-referencia.md)
+
+## [Microsoft Copilot](microsoft-copilot/)
+
+### [Copilot: Adopción Segura](microsoft-copilot/copilot-adopcion-segura.md)
 
 
-
-
-
-
-
-
-
-### Azure OpenAI
-
-
-
-
-
-
-
-#### GPT-RAG
-
-
-
-
-
-Preguntas?
-
-Arquitectura Zero Trust.&#x20;
-
-
-
-
-
-
-
-
-
-## Microsoft Copilot
-
-
-
-<figure><img src="../.gitbook/assets/Scavanna-test2.png" alt=""><figcaption></figcaption></figure>
-
-### Copilot M365
-
-
-
-
-
-Preguntas??
-
-#### Consideraciones de seguridad relacionadas a la adopcion de Copilot M365
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Utilizacion de Inteligencia Artificial en ambitos de Ciberseguridad
-
-
-
-### Mitre Atlas
 
 
 
