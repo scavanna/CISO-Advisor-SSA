@@ -2,7 +2,7 @@
 description: Actualizado al 2024-04-24
 ---
 
-# Inteligencia artificial responsable
+# Inteligencia artificial ética y responsable
 
 
 
@@ -34,7 +34,7 @@ description: Actualizado al 2024-04-24
 
 
 
-
+## [Microsoft Privacy](../microsoft-privacy.md)
 
 
 
