@@ -4,9 +4,7 @@ description: Actualizado 2024-04-24
 
 # Ciberseguridad e Inteligencia Artificial
 
-## Inteligencia artificial Etica y Reponsable.
-
-{% embed url="https://app.gitbook.com/o/zJ3RaZAqMoqbI7jlIbNW/s/jf2PPCg77Jdor4BTbRCd/~/changes/56/ciberseguridad-e-inteligencia-artificial/inteligencia-artificial-responsable" %}
+## [Inteligencia artificial Ética y Responsable.](inteligencia-artificial-etica-y-responsable.md)
 
 
 
