@@ -6,6 +6,16 @@
 
 [https://www.microsoft.com/en-us/security/business/security-insider/](https://www.microsoft.com/en-us/security/business/security-insider/)
 
+<figure><img src=".gitbook/assets/ThreatActors.png" alt=""><figcaption></figcaption></figure>
+
+#### 2023 Threat Intelligence Year in Review: Key Insights and Developments >> Marzo 2024
+
+[https://www.microsoft.com/en-us/security/business/security-insider/threat-briefs/2023-threat-intelligence-year-in-review-key-insights-and-development/](https://www.microsoft.com/en-us/security/business/security-insider/threat-briefs/2023-threat-intelligence-year-in-review-key-insights-and-development/)
+
+
+
+
+
 ## Reportes de Inteligencia
 
 [https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/)
@@ -34,6 +44,6 @@ Reporte completo
 
 <figure><img src=".gitbook/assets/Cyber Signals 6.png" alt=""><figcaption></figcaption></figure>
 
-Reporte completo:
+#### Reporte completo:
 
 [https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2024/02/cyber-signals-issue-6.pdf](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2024/02/cyber-signals-issue-6.pdf)
