@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Ciberseguridad e Inteligencia Artificial](ciberseguridad-e-inteligencia-artificial/README.md)
+  * [Modelo de responsabilidad compartida de la inteligencia artificial (IA)](ciberseguridad-e-inteligencia-artificial/modelo-de-responsabilidad-compartida-de-la-inteligencia-artificial-ia.md)
   * [Microsoft Copilot](ciberseguridad-e-inteligencia-artificial/microsoft-copilot.md)
   * [GPT-RAG Arquitectura de Referencia](ciberseguridad-e-inteligencia-artificial/gpt-rag-arquitectura-de-referencia.md)
   * [Inteligencia artificial responsable](ciberseguridad-e-inteligencia-artificial/inteligencia-artificial-responsable.md)
