@@ -6,13 +6,19 @@ description: Actualizado 2024-04-24
 
 ## Inteligencia artificial Etica y Reponsable.
 
-
+{% embed url="https://app.gitbook.com/o/zJ3RaZAqMoqbI7jlIbNW/s/jf2PPCg77Jdor4BTbRCd/~/changes/56/ciberseguridad-e-inteligencia-artificial/inteligencia-artificial-responsable" %}
 
 
 
 
 
 ## Modelo de responsabilidad compartida&#x20;
+
+
+
+
+
+
 
 
 
