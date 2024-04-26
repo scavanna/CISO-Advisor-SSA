@@ -43,6 +43,8 @@
     * [Post-Quantum TLS](microsoft-research/post-quantum-cryptography/post-quantum-tls.md)
     * [Post-quantum Cryptography VPN](microsoft-research/post-quantum-cryptography/post-quantum-cryptography-vpn.md)
     * [Post-Quantum SSH](microsoft-research/post-quantum-cryptography/post-quantum-ssh.md)
+  * [AI + Machine Learning](microsoft-research/ai-+-machine-learning/README.md)
+    * [Phi-3](microsoft-research/ai-+-machine-learning/phi-3.md)
 * [Microsoft Privacy](microsoft-privacy.md)
 * [Estándares y Regulaciones](estandares-y-regulaciones/README.md)
   * [Centro de confianza de Microsoft](estandares-y-regulaciones/centro-de-confianza-de-microsoft.md)
