@@ -23,6 +23,7 @@
   * [Data Protection - Purview](microsoft-security/data-protection-purview.md)
   * [Copilot Security](microsoft-security/copilot-security.md)
   * [Azure network security](microsoft-security/azure-network-security.md)
+* [Licenciamiento Microsoft](licenciamiento-microsoft.md)
 * [Reportes y Estadisticas](reportes-y-estadisticas/README.md)
   * [Reportes de Inteligencia Microsoft](reportes-y-estadisticas/reportes-de-inteligencia-microsoft.md)
   * [Microsoft Security Blog](reportes-y-estadisticas/microsoft-security-blog.md)
