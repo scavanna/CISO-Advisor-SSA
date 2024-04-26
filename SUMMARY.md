@@ -57,3 +57,6 @@
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
 * [Microsoft Privacy](microsoft-privacy.md)
+* [Tools](tools/README.md)
+  * [Regex](tools/regex.md)
+  * [Sysinternals Utilities Index](tools/sysinternals-utilities-index.md)
