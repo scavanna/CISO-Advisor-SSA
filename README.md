@@ -1,6 +1,6 @@
 # README
 
-Selección de recursos de interés para la oficina de CISO
+Selección de recursos de interés para la oficina de CISO.
 
 
 

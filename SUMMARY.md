@@ -26,6 +26,7 @@
   * [Reportes de Inteligencia Microsoft](reportes-y-estadisticas/reportes-de-inteligencia-microsoft.md)
   * [Microsoft Security Blog](reportes-y-estadisticas/microsoft-security-blog.md)
   * [Microsoft Cyber Signals](reportes-y-estadisticas/microsoft-cyber-signals.md)
+  * [Reportes de 3ros](reportes-y-estadisticas/reportes-de-3ros.md)
 * [Security Adoption Framework (SAF)](security-adoption-framework-saf/README.md)
   * [Zero Trust](security-adoption-framework-saf/zero-trust.md)
 * [Ciber Resiliencia](ciber-resiliencia/README.md)
@@ -47,3 +48,4 @@
   * [Centro de confianza de Microsoft](estandares-y-regulaciones/centro-de-confianza-de-microsoft.md)
 * [Linkedin-X-Youtube](linkedin-x-youtube.md)
 * [Artificial intelligence and machine learning security](artificial-intelligence-and-machine-learning-security.md)
+* [Organizaciones (Ciber)](organizaciones-ciber.md)
