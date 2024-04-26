@@ -46,7 +46,19 @@ En la sección de Matriz referencia a las páginas de documentación de la capac
 
 
 
+## Licenciamiento Defender for Cloud
 
+
+
+
+
+## Licenciamiento Azure ARC
+
+
+
+
+
+## Licenciamiento Sentinel&#x20;
 
 
 
