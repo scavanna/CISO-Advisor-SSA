@@ -10,21 +10,27 @@ Ver [Libro ](https://ar-scavanna.gitbook.io/cs4ai/ciberseguridad-e-inteligencia-
 
 
 
-Colaboradores (por orden alfabético)
+Colaboradores MS (por orden alfabético)
 
 * Alvaro Norena
 * Aparicio Luna
 * Carlos Oberreuter
 * Juan Pablo Orphanos
-*
 * William Fernandez
-*
 * Fernando Villegas
 * Luis Nates
 * Rodrigo Corvalan
 * Spencer Velastegui
 * Sebastian Zamorano
 * Victor Gonzales
+
+
+
+
+
+
+
+
 
 
 
