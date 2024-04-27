@@ -10,7 +10,7 @@ description: Actualizado 2024-04-24
 
 <figure><img src="../.gitbook/assets/AI-Shared-Responsibility_20240425.png" alt=""><figcaption></figcaption></figure>
 
-## [Servicios cognitivos disponibles en Microsoft Azure.](servicios-cognitivos-disponibles-en-microsoft-azure.md)
+## [Servicios cognitivos disponibles en Microsoft Azure.](../ai-+-machine-learning/servicios-cognitivos-disponibles-en-microsoft-azure.md)
 
 ## [GPT-RAG Arquitectura de Referencia](gpt-rag-arquitectura-de-referencia.md)
 
