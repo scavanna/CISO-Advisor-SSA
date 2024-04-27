@@ -1,2 +1,0 @@
-# Identity Protection - EntraID
-

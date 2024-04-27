@@ -14,9 +14,9 @@ description: Actualizado 2024-04-24
 
 ## [GPT-RAG Arquitectura de Referencia](gpt-rag-arquitectura-de-referencia.md)
 
-## [Microsoft Copilot](../microsoft-copilot/)
+## [Microsoft Copilot](microsoft-copilot/)
 
-### [Copilot: Adopción Segura](../microsoft-copilot/copilot-adopcion-segura.md)
+### [Copilot: Adopción Segura](microsoft-copilot/copilot-adopcion-segura.md)
 
 
 
