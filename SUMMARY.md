@@ -68,6 +68,8 @@
   * [SME On Linkedin-X-Youtube](linkedin-x-youtube/sme-on-linkedin-x-youtube.md)
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
+  * [Congresos\_Conferencias](bibliografia-y-referencias/congresos\_conferencias.md)
+  * [SCavanna ppts](bibliografia-y-referencias/scavanna-ppts.md)
 * [Microsoft Privacy](microsoft-privacy.md)
 * [Tools](tools/README.md)
   * [Regex](tools/regex.md)
