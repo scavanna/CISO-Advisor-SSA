@@ -1,14 +1,30 @@
 # README
 
-Selección (by SCavanna) de recursos de interés para la oficina de CISO.
+## Selección (by SCavanna) de recursos de interés para la oficina de CISO.
+
+Objetivo:
 
 
 
-Ver [SUMMARY](SUMMARY.md)  (en github)
+Alcance
+
+
+
+Publico:
+
+
+
+Metodologia:
+
+
+
+Expectativas
+
+
+
+Ver [SUMMARY](SUMMARY.md) (en github)
 
 Ver [Libro ](https://ar-scavanna.gitbook.io/)(en Gitbook)
-
-
 
 Colaboradores MS (por orden alfabético)
 
@@ -23,16 +39,6 @@ Colaboradores MS (por orden alfabético)
 * Spencer Velastegui
 * Sebastian Zamorano
 * Victor Gonzales
-
-
-
-
-
-
-
-
-
-
 
 Santiago Cavanna.
 
