@@ -42,6 +42,7 @@
   * [Microsoft Cybersecurity Reference Architectures](microsoft-security-adoption-framework-saf/mcra.md)
   * [CISO Workshop](microsoft-security-adoption-framework-saf/ciso-workshop.md)
   * [CISO Threat Framework](microsoft-security-adoption-framework-saf/ciso-threat-framework.md)
+  * [Security in the Microsoft Cloud Adoption Framework for Azure](microsoft-security-adoption-framework-saf/security-in-the-microsoft-cloud-adoption-framework-for-azure.md)
 * [Ciber Resiliencia](ciber-resiliencia/README.md)
   * [Ransomware](ciber-resiliencia/ransomware/README.md)
     * [Human-operated ransomware attacks](ciber-resiliencia/ransomware/human-operated-ransomware-attacks.md)

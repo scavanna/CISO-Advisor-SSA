@@ -4,7 +4,7 @@
 
 [https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-policies](https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-policies)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Configure and enable risk policies <a href="#configure-and-enable-risk-policies" id="configure-and-enable-risk-policies"></a>
 
@@ -17,7 +17,7 @@
 
 ### Migrate risk policies to Conditional Access <a href="#migrate-risk-policies-to-conditional-access" id="migrate-risk-policies-to-conditional-access"></a>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
