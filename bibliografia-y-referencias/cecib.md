@@ -1,3 +1,7 @@
+---
+icon: monero
+---
+
 # CECIB
 
 Trabajo realizados a titulo personal en el contexto del CECIB.

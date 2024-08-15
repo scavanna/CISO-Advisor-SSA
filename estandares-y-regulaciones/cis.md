@@ -1,3 +1,7 @@
+---
+icon: monero
+---
+
 # CIS
 
 
