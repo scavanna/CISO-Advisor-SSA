@@ -73,6 +73,7 @@
   * [CIS](estandares-y-regulaciones/cis.md)
 * [Linkedin-X-Youtube](linkedin-x-youtube/README.md)
   * [Microsoft On Linkedin-X-Youtube](linkedin-x-youtube/microsoft-on-linkedin-x-youtube.md)
+  * [SME's](linkedin-x-youtube/smes.md)
   * [SME On Linkedin-X-Youtube](linkedin-x-youtube/sme-on-linkedin-x-youtube.md)
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
