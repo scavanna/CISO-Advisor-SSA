@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Microsoft (\*)
 
 Universo Microsoft ??&#x20;
