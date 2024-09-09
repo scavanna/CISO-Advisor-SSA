@@ -35,6 +35,7 @@
   * [Azure network security](microsoft-security/azure-network-security.md)
   * [Ecosistema Ciberseguridad](microsoft-security/ecosistema-ciberseguridad.md)
   * [Advanced deployment guides for Microsoft 365 and Office 365 products](microsoft-security/advanced-deployment-guides-for-microsoft-365-and-office-365-products.md)
+  * [What's New?](microsoft-security/whats-new.md)
 * [Licenciamiento Microsoft](licenciamiento-microsoft.md)
 * [Soporte y Servicios](soporte-y-servicios/README.md)
   * [FastTrack](soporte-y-servicios/fasttrack/README.md)
