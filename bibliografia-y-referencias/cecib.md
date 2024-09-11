@@ -12,4 +12,4 @@ Trabajo realizados a titulo personal en el contexto del CECIB.
 
 {% file src="../.gitbook/assets/CiberSeguridad_Controles-ProductosProcesos_publico 1page.pdf" %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
