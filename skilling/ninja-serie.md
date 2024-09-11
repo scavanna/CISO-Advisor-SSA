@@ -1,5 +1,11 @@
 # Ninja Serie
 
+## Microsoft Sentinel & Defender XDR Virtual Ninja Training
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://adoption.microsoft.com/en-us/ninja-show/" %}
+
 
 
 ## Become a Microsoft Defender for Endpoint Ninja
