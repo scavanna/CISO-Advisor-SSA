@@ -88,4 +88,5 @@
   * [Regex](tools/regex.md)
   * [Sysinternals Utilities Index](tools/sysinternals-utilities-index.md)
 * [Azure cloud solutions](azure-cloud-solutions.md)
-* [Skilling](skilling.md)
+* [Skilling](skilling/README.md)
+  * [Ninja Serie](skilling/ninja-serie.md)
