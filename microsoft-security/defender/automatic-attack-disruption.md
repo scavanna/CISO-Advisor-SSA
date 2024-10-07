@@ -1,5 +1,16 @@
 ---
 description: Automatic attack disruption in Microsoft Defender XDR
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Automatic attack disruption
