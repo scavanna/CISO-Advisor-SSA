@@ -80,18 +80,23 @@
   * [NIST](estandares-y-regulaciones/nist.md)
   * [MITRE](estandares-y-regulaciones/mitre.md)
   * [CIS](estandares-y-regulaciones/cis.md)
-* [Linkedin-X-Youtube](linkedin-x-youtube/README.md)
-  * [Microsoft On Linkedin-X-Youtube](linkedin-x-youtube/microsoft-on-linkedin-x-youtube.md)
-  * [SME's](linkedin-x-youtube/smes.md)
-  * [SME On Linkedin-X-Youtube](linkedin-x-youtube/sme-on-linkedin-x-youtube.md)
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
   * [Congresos\_Conferencias](bibliografia-y-referencias/congresos\_conferencias.md)
   * [SCavanna ppts](bibliografia-y-referencias/scavanna-ppts.md)
   * [CECIB](bibliografia-y-referencias/cecib.md)
 * [Microsoft Privacy](microsoft-privacy.md)
-* [Tools](tools/README.md)
-  * [Regex](tools/regex.md)
-  * [Sysinternals Utilities Index](tools/sysinternals-utilities-index.md)
-* [Skilling](skilling/README.md)
-  * [Ninja Serie](skilling/ninja-serie.md)
+
+## Skilling
+
+* [Skilling](skilling/skilling/README.md)
+  * [Ninja Serie](skilling/skilling/ninja-serie.md)
+* [Tools](skilling/tools/README.md)
+  * [Regex](skilling/tools/regex.md)
+  * [Sysinternals Utilities Index](skilling/tools/sysinternals-utilities-index.md)
+
+## Social
+
+* [Linkedin-X-Youtube](social/linkedin-x-youtube.md)
+* [SME's](social/smes.md)
+* [SME On Linkedin-X-Youtube](social/sme-on-linkedin-x-youtube.md)
