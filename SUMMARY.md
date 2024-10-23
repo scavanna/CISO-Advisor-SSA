@@ -80,6 +80,7 @@
   * [NIST](estandares-y-regulaciones/nist.md)
   * [MITRE](estandares-y-regulaciones/mitre.md)
   * [CIS](estandares-y-regulaciones/cis.md)
+  * [Metodologia de Analisis y gestion de riesgos](estandares-y-regulaciones/metodologia-de-analisis-y-gestion-de-riesgos.md)
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
   * [Congresos\_Conferencias](bibliografia-y-referencias/congresos\_conferencias.md)
