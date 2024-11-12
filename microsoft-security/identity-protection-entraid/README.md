@@ -8,7 +8,7 @@ Microsoft Entra ID Protection helps organizations detect, investigate, and remed
 
 {% embed url="https://learn.microsoft.com/en-us/entra/id-protection/overview-identity-protection" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

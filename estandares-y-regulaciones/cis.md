@@ -4,11 +4,21 @@ icon: monero
 
 # CIS
 
+## Center for Internet Security (CIS) Benchmarks <a href="#center-for-internet-security-cis-benchmarks" id="center-for-internet-security-cis-benchmarks"></a>
+
+{% embed url="https://learn.microsoft.com/en-us/compliance/regulatory/offering-cis-benchmark" %}
 
 
 
 
 
+CIS Microsoft Azure Foundations Benchmark 2.0.0 Regulatory Compliance built-in initiative
+
+{% embed url="https://learn.microsoft.com/en-us/azure/governance/policy/samples/cis-azure-2-0-0" %}
+
+## Build and manage assessments in Compliance Manager <a href="#build-and-manage-assessments-in-compliance-manager" id="build-and-manage-assessments-in-compliance-manager"></a>
+
+{% embed url="https://learn.microsoft.com/en-us/purview/compliance-manager-assessments" %}
 
 
 

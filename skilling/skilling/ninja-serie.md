@@ -18,7 +18,7 @@ Last update: ‎Jan 19 2024
 
 ## Microsoft Purview Information Protection Ninja Training
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-purview-information-protection-ninja-training-is/ba-p/2887478" %}
 

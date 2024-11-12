@@ -81,6 +81,8 @@
   * [MITRE](estandares-y-regulaciones/mitre.md)
   * [CIS](estandares-y-regulaciones/cis.md)
   * [Metodologia de Analisis y gestion de riesgos](estandares-y-regulaciones/metodologia-de-analisis-y-gestion-de-riesgos.md)
+  * [Security baselines - Windows Desktop](estandares-y-regulaciones/security-baselines-windows-desktop.md)
+  * [Azure Blueprints](estandares-y-regulaciones/azure-blueprints.md)
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
   * [Congresos\_Conferencias](bibliografia-y-referencias/congresos\_conferencias.md)
