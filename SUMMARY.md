@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [Introducción](introduccion.md)
+* [M365E5 - CISO PoV](introduccion.md)
 * [Ciberseguridad e Inteligencia Artificial](ciberseguridad-e-inteligencia-artificial/README.md)
   * [Inteligencia artificial ética y responsable](ciberseguridad-e-inteligencia-artificial/inteligencia-artificial-etica-y-responsable.md)
   * [Modelo de responsabilidad compartida de la inteligencia artificial (IA)](ciberseguridad-e-inteligencia-artificial/modelo-de-responsabilidad-compartida-de-la-inteligencia-artificial-ia.md)
@@ -85,7 +85,7 @@
   * [Azure Blueprints](estandares-y-regulaciones/azure-blueprints.md)
 * [Bibliografia y referencias](bibliografia-y-referencias/README.md)
   * [Analistas de Industria](bibliografia-y-referencias/analistas-de-industria.md)
-  * [Congresos\_Conferencias](bibliografia-y-referencias/congresos\_conferencias.md)
+  * [Congresos\_Conferencias](bibliografia-y-referencias/congresos_conferencias.md)
   * [SCavanna ppts](bibliografia-y-referencias/scavanna-ppts.md)
   * [CECIB](bibliografia-y-referencias/cecib.md)
 * [Microsoft Privacy](microsoft-privacy.md)
