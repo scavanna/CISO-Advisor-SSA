@@ -8,7 +8,7 @@
 
 {% embed url="https://learn.microsoft.com/en-us/azure/governance/blueprints/" %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## NIST SP 800-53
 

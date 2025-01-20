@@ -38,7 +38,7 @@ CIS Microsoft Azure Foundations Benchmark 2.0.0 Regulatory Compliance built-in i
 
 {% file src="../.gitbook/assets/CIS_RAM_v2.1_for_IG3_Workbook_22.05_SCAVANNA_202206.xlsx" %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Work in Progress, relacionado con >> [CECIB](../bibliografia-y-referencias/cecib.md)
 

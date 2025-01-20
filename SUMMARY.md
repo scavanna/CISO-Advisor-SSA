@@ -97,6 +97,7 @@
 * [Tools](skilling/tools/README.md)
   * [Regex](skilling/tools/regex.md)
   * [Sysinternals Utilities Index](skilling/tools/sysinternals-utilities-index.md)
+* [Eventos](skilling/eventos.md)
 
 ## Social
 
