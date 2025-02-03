@@ -88,6 +88,7 @@
   * [Congresos\_Conferencias](bibliografia-y-referencias/congresos_conferencias.md)
   * [SCavanna ppts](bibliografia-y-referencias/scavanna-ppts.md)
   * [CECIB](bibliografia-y-referencias/cecib.md)
+  * [Libros Recomendados](bibliografia-y-referencias/libros-recomendados.md)
 * [Microsoft Privacy](microsoft-privacy.md)
 
 ## Skilling
