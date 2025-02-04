@@ -1,3 +1,7 @@
+---
+icon: brain
+---
+
 # README
 
 ## Selección (by SCavanna) de recursos de interés para la oficina de CISO.
