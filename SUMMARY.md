@@ -51,6 +51,7 @@
   * [Security in the Microsoft Cloud Adoption Framework for Azure](microsoft-security-adoption-framework-saf/security-in-the-microsoft-cloud-adoption-framework-for-azure.md)
   * [Diagramas de Arquitectura](microsoft-security-adoption-framework-saf/diagramas-de-arquitectura.md)
   * [Secure Score (3)](microsoft-security-adoption-framework-saf/secure-score-3.md)
+  * [Enterprise Security Assessment](microsoft-security-adoption-framework-saf/enterprise-security-assessment.md)
 * [Azure cloud solutions](azure-cloud-solutions/README.md)
   * [Page 1](azure-cloud-solutions/page-1.md)
 * [Ciber Resiliencia](ciber-resiliencia/README.md)
