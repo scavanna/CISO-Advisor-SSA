@@ -6,12 +6,8 @@ icon: brain
 
 ## Selección (by SCavanna) de recursos de interés para la oficina de CISO.
 
-Ver [SUMMARY](SUMMARY.md) (en github)
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-Ver [Libro ](https://ar-scavanna.gitbook.io/)(en Gitbook)
+{% embed url="https://www.linkedin.com/in/scavanna/" %}
 
-
-
-Santiago Cavanna.
-
-CISO Microsoft Sudamerica Hispana.
+{% embed url="https://x.com/scavanna" %}
