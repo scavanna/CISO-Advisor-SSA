@@ -2,9 +2,9 @@
 icon: brain
 ---
 
-# README
+# Microsoft CISO PoV
 
-## Selección (by SCavanna) de recursos de interés para la oficina de CISO.
+## Selección de recursos de interés para la oficina de CISO.
 
 <figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 

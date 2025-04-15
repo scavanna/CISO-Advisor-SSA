@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Microsoft CISO PoV](README.md)
 * [M365E5 - CISO PoV](introduccion.md)
 * [Ciberseguridad e Inteligencia Artificial](ciberseguridad-e-inteligencia-artificial/README.md)
   * [Inteligencia artificial ética y responsable](ciberseguridad-e-inteligencia-artificial/inteligencia-artificial-etica-y-responsable.md)
