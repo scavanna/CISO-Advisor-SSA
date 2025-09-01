@@ -1,6 +1,15 @@
 # Table of contents
 
-* [Microsoft CISO PoV](README.md)
+## Modelos Mentales para Cyberseguridad
+
+* [Euristicas y Algoritmos](README.md)
+* [Page 3](modelos-mentales-para-cyberseguridad/page-3.md)
+* [Page 2](modelos-mentales-para-cyberseguridad/page-2.md)
+* [Page](modelos-mentales-para-cyberseguridad/page.md)
+
+***
+
+* [Microsoft CISO PoV](<README (1).md>)
 * [M365E5 - CISO PoV](introduccion.md)
 * [Ciberseguridad e Inteligencia Artificial](ciberseguridad-e-inteligencia-artificial/README.md)
   * [Inteligencia artificial ética y responsable](ciberseguridad-e-inteligencia-artificial/inteligencia-artificial-etica-y-responsable.md)
